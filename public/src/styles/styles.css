@@ -1,0 +1,16 @@
+body{
+
+}
+
+.container{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    border-color: black;
+    border-radius: 20px;
+}
+
+.container .item{
+    font-family: DFMincho-W5, serif;
+    border: 2px solid black;
+}
